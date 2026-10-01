@@ -14,7 +14,7 @@ public class E1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n = 11;
+        int n = 8;
         int resultado = Fibonacci(n);
         System.out.println("Fibonacci (" + n + "):" + resultado);
         

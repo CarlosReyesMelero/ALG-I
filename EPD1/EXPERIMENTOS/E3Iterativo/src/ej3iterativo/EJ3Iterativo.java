@@ -16,7 +16,7 @@ public class EJ3Iterativo {
      */
     public static void main(String[] args){
         try{
-            int numero = -1;
+            int numero = 8;
             System.out.println("Factorial de " + numero + " es: " + factorial(numero));
         } catch( Exception e){
             System.out.println(e);
