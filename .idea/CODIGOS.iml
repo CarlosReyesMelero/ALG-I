@@ -6,6 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/EPD2/EXPERIMENTOS/Experimento1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EPD2/PROBLEMAS/P1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EPD2/PROBLEMAS/PROBLEMA1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicios/1-SumaRecursiva/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicios/2-Factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicios/3-RecorrerArrayRecursivo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicios/4-BuscarElementoEnArrayRecursivo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicios/5-RecorrerMatriz/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
